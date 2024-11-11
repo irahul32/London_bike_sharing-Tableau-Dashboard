@@ -9,5 +9,3 @@
 1.**Temporal Trend Analysis:** The analysis aims to understand temporal trends and patterns in bike sharing activity in London. This involves examining variations in rental counts over different time periods, including daily, weekly, and monthly intervals.
 
 2.**Impact of External Factors:** Investigating the influence of external factors, such as weather conditions and seasonal variations, on bike rental counts. The goal is to identify correlations and potentially predictive relationships between these factors and bike usage.
-
-3.**Actionable Insights for Stakeholders:** Providing actionable insights for stakeholders, including bike-sharing companies and city planners, to optimize bike-sharing services, infrastructure, and operational strategies based on identified patterns and trends uncovered through the analysis.
